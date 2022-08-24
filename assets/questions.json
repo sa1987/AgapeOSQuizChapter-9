@@ -1,42 +1,40 @@
 [
     {
-      "question": "Which of the following is/are not FAIR principles?",
-      "choice1": "Findable & Accessible",
-      "choice2": "Accessible & Reproducible",
-      "choice3": "Identifiable & Reproducible",
-      "choice4": "Reproducible & Findable",
-      "answer": 3
-    },
-    {
-      "question": "Which of the following statements is true?'?",
-      "choice1": "Metadata should be determined at the beginning of the project to provide guidelines for the process.",
-      "choice2": "Understanding the purpose of a file is a good way to start when you try to decide the format for file preserving.",
-      "choice3": "PID (persistent identifier) includes DOI, ORCID, ISBN, URL, etc.",
-      "choice4": "Sensitive data can always be FAIR in the same way as non-sensitive data.",
+      "question": "Communication is the term used to describe sharing your results with the scientific community, stakeholders and policy makers.",
+      "choice1": "True",
+      "choice2": "False",
       "answer": 2
     },
     {
-      "question": "If you want to find out about a specific author, the most effective way is to search by:",
-      "choice1": "ORCID",
-      "choice2": "URL",
-      "choice3": "DQI",
-      "choice4": "ARKs",
-      "answer": 1
+      "question": "What is your study plan referred to after a journal reviews it?",
+      "choice1": "Pre-registration",
+      "choice2": "Registered report",
+      "choice3": "Gold access journal paper",
+      "choice4": "Green access journal paper",
+      "answer": 2
     },
     {
-      "question": "Jane is conducting a research project that employs quantitative data without any personal or confidential information. How can she draw up a data management plan that is FAIR?",
-      "choice1": "Write a new data management plan, specifying the planned handling of all data types.",
-      "choice2": "Find the data management plan from a previous project and use it.",
-      "choice3": "Hire someone externally to write the data management plan.",
-      "choice4": "Delegate the job to one of her collaborators.",
-      "answer": 1
+      "question": "What is a pre-print?",
+      "choice1": "A copy of the research hypotheses you have for your research ",
+      "choice2": "An infographic which sums up your research",
+      "choice3": "A full draft of a paper sent for peer-review",
+      "choice4": "Research protocol",
+      "answer": 3
     },
-    {
-      "question": " this is a place holder questions",
-      "choice1": "msgBox('Hello World');",
-      "choice2": "alertBox('Hello World');",
-      "choice3": "msg('Hello World');",
-      "choice4": "alert('Hello World');",
+	{
+      "question": "What should you NOT do to make your research accessible?",
+      "choice1": "Consider disabilities when preparing your communication",
+      "choice2": "Use data repositories or data centres",
+      "choice3": "Share your research journey from conception to impact",
+      "choice4": "Share your passwords with the research community",
       "answer": 4
+    },
+    {
+      "question": "What is ResearchGate?",
+      "choice1": "Social media platform",
+      "choice2": "Open science repository",
+      "choice3": "Blog about open science",
+      "choice4": "Podcast platform",
+      "answer": 1
     }
   ]
